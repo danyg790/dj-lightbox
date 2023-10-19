@@ -2,7 +2,7 @@
   "name": "dj-lightbox",
   "homepage": "https://github.com/danyg790/dj-lightbox",
   "authors": [
-	"Daniel Gisrbecht"
+	"Daniel Giesbrecht"
   ],
   "description": "Custom Lightbox script. Uses jQuery.",
   "main": [
