@@ -1,0 +1,30 @@
+{
+  "name": "dj-lightbox",
+  "version": "2.11.4",
+  "author": "Daniel James G",
+  "description": "The original Lightbox script. Uses jQuery.",
+  "keywords": [
+    "lightbox",
+    "overlay",
+    "gallery",
+    "slideshow",
+    "images",
+    "videos"
+  ],
+  "homepage": "https://github.com/danyg790/dj-lightbox",
+  "main": "./dist/js/lightbox.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyg790/dj-lightbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danyg790/dj-lightbox/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/danyg790/dj-lightbox/master/LICENSE"
+    }
+  ],
+  "devDependencies": {}
+}
